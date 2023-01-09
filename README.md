@@ -12,4 +12,11 @@ conda create -p venv python==3.7 -y
 
 git config --global user.name "Marcos Hernández"
 git config --global user.email "marcoshernandezhr@gmail.com"
+
+
+git add .
+git status
+git commit -m "message"
+git push origin main
+(appears on github)
 ```
